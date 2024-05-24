@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./index-l5lWRrB9.js";const c={data(){return{}}},o={class:"text-light text-center my-5"};function r(a,n,_,p,i,d){return s(),t("h1",o,"News page")}const l=e(c,[["render",r]]);export{l as default};
