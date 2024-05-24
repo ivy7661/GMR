@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r}from"./index-27a1dJdw.js";const a={data(){return{}}},c={class:"text-light text-center my-5"};function n(o,s,_,p,i,d){return r(),e("h1",c,"Partner page")}const l=t(a,[["render",n]]);export{l as default};
