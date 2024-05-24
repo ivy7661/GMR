@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as c}from"./index-l5lWRrB9.js";const o={data(){return{}}},a={class:"text-light text-center my-5"};function n(s,r,_,p,i,d){return c(),e("h1",a,"Contact page")}const l=t(o,[["render",n]]);export{l as default};

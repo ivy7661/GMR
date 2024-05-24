@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./index-XIl_Bu-d.js";const c={data(){return{}}},s={class:"text-light text-center my-5"};function r(a,n,_,p,i,u){return o(),e("h1",s,"About page")}const f=t(c,[["render",r]]);export{f as default};
