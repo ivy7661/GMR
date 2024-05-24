@@ -54,3 +54,9 @@
   </header>
   <RouterView></RouterView>
 </template>
+
+<style>
+.navbar-logo {
+  width: 200px;
+}
+</style>
