@@ -6,12 +6,6 @@
           <img src="/public/logo.svg" alt="logo" class="d-inline-block navbar-logo ms-2" />
         </RouterLink>
         <div class="d-flex align-items-center">
-          <!-- 手機 icon-->
-          <!-- <div class="d-lg-none">
-            <button type="button" class="navbar-brand position-relative">
-              <i class="bi bi-person-fill fs-3 mx-2 text-white"></i>
-            </button>
-          </div> -->
           <!--漢堡-->
           <button
             class="navbar-toggler"

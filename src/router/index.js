@@ -23,7 +23,7 @@ const router = createRouter({
         },
         {
           path: "parter",
-          component: () => import("../views/ParterView.vue")
+          component: () => import("../views/PartnerView.vue")
         },
         {
           path: "contact",

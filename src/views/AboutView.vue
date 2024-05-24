@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <h1 class="text-accent-yellow my-5">This is an about page</h1>
-  </div>
+  <h1 class="text-light text-center my-5">About page</h1>
 </template>
 
 <script>

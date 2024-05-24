@@ -25,7 +25,7 @@
   </swiper>
 
   <h1 class="text-light text-center my-5">GRUPPE M RACING</h1>
-  <hr style="border: 2px solid #fff" />
+  <hr style="border: 2px solid" />
   <h4 class="text-light text-center my-5">
     GruppeM Racing wrapped-up a truly remarkable history-making season in the inaugural Blancpain GT
     Series Asia at a rain-hit Zhejiang in China on Sunday, 15th October, 2017, by winning no fewer
@@ -33,10 +33,10 @@
     title.
   </h4>
 
-  <h1 class="text-center mt-8">LATEST NEWS</h1>
-  <hr style="border: 2px solid #fff" />
+  <h1 class="text-center my-5">LATEST NEWS</h1>
+  <hr style="border: 2px solid" />
 
-  <div class="row mb-5" style="max-width: 1296px">
+  <div class="row my-5" style="max-width: 1296px">
     <div class="col-12 col-lg-4 mb-3 mb-lg-0 d-flex justify-content-center">
       <div class="card border-0">
         <img src="/public/n1.png" class="card-img-top" alt="" />
@@ -44,7 +44,10 @@
           <p class="text-danger text-center">20240215</p>
           <p class="text-white">This year, Mercedes-Benz celebrates 130 years of motorsport.</p>
           <p class="text-end">
-            <a href="https://www.9hunters.com/gift-recommendation/">繼續閱讀 </a>
+            <a
+              href="https://customerracing.mercedes-amg.com/en/news/allnews/from-competition-ride-to-record-run---mercedes-amg-celebrates-13.html"
+              >Read more...
+            </a>
           </p>
         </div>
       </div>
@@ -57,7 +60,7 @@
 
           <p class="text-white">GruppeM Racing confirm Bathurst return with Mercedes-AMG</p>
           <p class="text-end">
-            <a href="https://www.9hunters.com/wine-knowledge-cava/">繼續閱讀 </a>
+            <a href="http://www.gruppem-amg.com/2024news/news_20240110.html">Read more... </a>
           </p>
         </div>
       </div>
@@ -69,7 +72,7 @@
           <p class="text-danger text-center">20231210</p>
           <p class="text-white">Lenovo Gulf 12 Hours victory for Mercedes-AMG</p>
           <p class="text-end">
-            <a href="https://www.9hunters.com/red-wine-recommendation/">繼續閱讀 </a>
+            <a href="http://www.gruppem-amg.com/news_20231210.html">Read more... </a>
           </p>
         </div>
       </div>
@@ -91,8 +94,8 @@
             <div class="col-12 mb-3 mb-lg-0 col-lg-3">
               <div class="d-flex flex-column align-items-center">
                 <h6 class="text-light mt-2 mb-1">聯絡我們</h6>
-                <p class="mb-1">info@gruppem-amg.com</p>
-                <h6 class="text-light my-2">服務時間 14~18</h6>
+                <p class="mb-1">gmr@gmail.com</p>
+                <h6 class="text-light my-2">服務時間 9~18</h6>
               </div>
             </div>
             <div class="col-12 mb-3 mb-lg-0 col-lg-3">

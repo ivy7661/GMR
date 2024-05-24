@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <h1 class="text-accent-yellow my-5">This is an parter page</h1>
-  </div>
+  <h1 class="text-light text-center my-5">Partner page</h1>
 </template>
 
 <script>
