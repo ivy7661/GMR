@@ -1,0 +1,10 @@
+@import "bootstrap/scss/functions";
+@import "./helpers/variables";
+@import "bootstrap/scss/bootstrap.scss";
+@import "bootstrap/scss/mixins";
+@import "./helpers/base";
+
+body {
+  background: black;
+  color: aliceblue;
+}
